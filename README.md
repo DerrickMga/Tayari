@@ -14,3 +14,4 @@ Public media for scheduled Tayari by KMG social posts (Metricool). Not applicati
 The journey IDs, captions and an index of every link are in the `marketing/` folder of the vitalbot repo. All app footage uses a fictional demo account with sample data.
 | `brand-2026-11/` | Brand kit: logos, product icons, app icons, social headers, avatars, brand guide. |
 | `email-2026-11/` | Email headers, banners and footer (2x, show at 600px). |
+| `app-marketing-2026-11/` | KMG Connect and Uza app marketing: App Store screenshots, headers and previews, posters, reels, Pay for Me long form video, 30 day calendar. |
