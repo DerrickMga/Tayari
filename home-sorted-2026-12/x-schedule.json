@@ -66,7 +66,7 @@
     "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/D1_VitalPay.jpg"
    ],
    "alt": "Vital Pay API for developers.",
-   "scheduled_in_buffer": false
+   "scheduled_in_buffer": true
   },
   {
    "dueAt": "2026-12-12T16:00:00+00:00",
@@ -77,7 +77,7 @@
     "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S4_Tayari.jpg"
    ],
    "alt": "Tayari on WhatsApp. Just type Pay for me.",
-   "scheduled_in_buffer": false
+   "scheduled_in_buffer": true
   },
   {
    "dueAt": "2026-12-15T16:00:00+00:00",
@@ -88,7 +88,7 @@
     "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S6_Gift.jpg"
    ],
    "alt": "Birthday back home? Send something useful.",
-   "scheduled_in_buffer": false
+   "scheduled_in_buffer": true
   },
   {
    "dueAt": "2026-12-16T16:00:00+00:00",
@@ -102,7 +102,7 @@
     "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/CA5_Done.jpg"
    ],
    "alt": "Pay for Me explained: ask, share the link, family pays, it lands.",
-   "scheduled_in_buffer": false
+   "scheduled_in_buffer": true
   },
   {
    "dueAt": "2026-12-18T16:00:00+00:00",
@@ -116,7 +116,7 @@
     "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/ST4_CTA.jpg"
    ],
    "alt": "Christmas at home, sorted: send a gift link, chip in together, it lands.",
-   "scheduled_in_buffer": false
+   "scheduled_in_buffer": true
   },
   {
    "dueAt": "2026-12-19T16:00:00+00:00",
