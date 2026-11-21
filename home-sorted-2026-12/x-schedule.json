@@ -1,0 +1,359 @@
+{
+ "channelId": "6aebc531e29c69a171663d49",
+ "note": "X (@kundiemgazy) via Buffer. Buffer free plan holds max 10 scheduled posts, so these are added in batches as slots free up. Times are Europe/London (= UTC in Dec/Jan).",
+ "posts": [
+  {
+   "dueAt": "2026-12-01T16:00:00+00:00",
+   "asset": "S1",
+   "draft": false,
+   "text": "Airtime, data, electricity and bills for family back home, paid straight to the provider. Download Uza.\n\nGet Uza: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S1#apps\n\n#HomeSorted #Zimbabwe #Diaspora",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S1_HomeSorted.jpg"
+   ],
+   "alt": "Home, sorted. Airtime, data, electricity and bills, paid straight to the provider.",
+   "scheduled_in_buffer": true
+  },
+  {
+   "dueAt": "2026-12-03T16:00:00+00:00",
+   "asset": "S7",
+   "draft": false,
+   "text": "Your year of looking after home. Your 2026 Wrap lands 7 December.\n\nGet Uza: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S7#apps\n\n#2026Wrap #HomeSorted #Diaspora",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S7_WrapTeaser.jpg"
+   ],
+   "alt": "Coming soon: your 2026 Wrap, 7 December.",
+   "scheduled_in_buffer": true
+  },
+  {
+   "dueAt": "2026-12-04T16:00:00+00:00",
+   "asset": "S4",
+   "draft": false,
+   "text": "No app? Just type \"Pay for me\" to Tayari on WhatsApp: +44 7916 687285.\n\nOr pay on the web: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S4\n\n#Tayari #PayForMe #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S4_Tayari.jpg"
+   ],
+   "alt": "Tayari on WhatsApp. Just type Pay for me.",
+   "scheduled_in_buffer": true
+  },
+  {
+   "dueAt": "2026-12-07T16:00:00+00:00",
+   "asset": "S2",
+   "draft": false,
+   "text": "They ask. You pay. It lands. One link from home, and you pay from anywhere. Try Pay for Me in Uza.\n\nTry Pay for Me: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S2\n\n#PayForMe #HomeSorted #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S2_PayForMe.jpg"
+   ],
+   "alt": "They ask. You pay. It lands. Pay for Me in Uza.",
+   "scheduled_in_buffer": true
+  },
+  {
+   "dueAt": "2026-12-09T16:00:00+00:00",
+   "asset": "S5",
+   "draft": false,
+   "text": "Hear their voice. Every week. Call home, top up and pay in KMG Connect.\n\nGet KMG Connect: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S5#apps\n\n#KMGConnect #CallHome #Diaspora",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S5_Connect.jpg"
+   ],
+   "alt": "KMG Connect. Hear their voice. Every week.",
+   "scheduled_in_buffer": true
+  },
+  {
+   "dueAt": "2026-12-10T13:00:00+00:00",
+   "asset": "D1",
+   "draft": false,
+   "text": "Developers: build on rails that reach home.\nAirtime, data, bills, vouchers and pay links across African markets, through one API with a sandbox to start.\nWhat would you build first?\n\nRegister your interest: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=D1\n\n#VitalPay #Fintech #Developers",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/D1_VitalPay.jpg"
+   ],
+   "alt": "Vital Pay API for developers.",
+   "scheduled_in_buffer": true
+  },
+  {
+   "dueAt": "2026-12-12T16:00:00+00:00",
+   "asset": "S4",
+   "draft": false,
+   "text": "No app? Just type \"Pay for me\" to Tayari on WhatsApp: +44 7916 687285.\n\nOr pay on the web: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S4\n\n#Tayari #PayForMe #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S4_Tayari.jpg"
+   ],
+   "alt": "Tayari on WhatsApp. Just type Pay for me.",
+   "scheduled_in_buffer": true
+  },
+  {
+   "dueAt": "2026-12-15T16:00:00+00:00",
+   "asset": "S6",
+   "draft": false,
+   "text": "Birthday back home? Send something useful. They choose their own number.\n\nSend a gift: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S6\n\n#Gifts #HomeSorted #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S6_Gift.jpg"
+   ],
+   "alt": "Birthday back home? Send something useful.",
+   "scheduled_in_buffer": true
+  },
+  {
+   "dueAt": "2026-12-16T16:00:00+00:00",
+   "asset": "CA",
+   "draft": false,
+   "text": "Pay for Me, explained in 4 swipes. Save this for the next time someone asks.\n\nTry Pay for Me: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=CA\n\n#PayForMe #HomeSorted #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/CA2_Ask.jpg",
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/CA3_Share.jpg",
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/CA4_Pay.jpg",
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/CA5_Done.jpg"
+   ],
+   "alt": "Pay for Me explained: ask, share the link, family pays, it lands.",
+   "scheduled_in_buffer": true
+  },
+  {
+   "dueAt": "2026-12-18T16:00:00+00:00",
+   "asset": "ST",
+   "draft": false,
+   "text": "Christmas at home, sorted, in 3 taps.\n\nSend Christmas home: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=ST\n\n#Christmas #HomeSorted #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/ST1_Hook.jpg",
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/ST2_Gift.jpg",
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/ST3_ChipIn.jpg",
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/ST4_CTA.jpg"
+   ],
+   "alt": "Christmas at home, sorted: send a gift link, chip in together, it lands.",
+   "scheduled_in_buffer": true
+  },
+  {
+   "dueAt": "2026-12-19T16:00:00+00:00",
+   "asset": "S3",
+   "draft": false,
+   "text": "School fees? Everyone chips in, and everyone sees who paid. Start a Chip In in Uza.\n\nStart a Chip In: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S3\n\n#ChipIn #SchoolFees #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S3_ChipIn.jpg"
+   ],
+   "alt": "School fees? Everyone chips in. Start a Chip In in Uza.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2026-12-21T16:00:00+00:00",
+   "asset": "S4",
+   "draft": false,
+   "text": "No app? Just type \"Pay for me\" to Tayari on WhatsApp: +44 7916 687285.\n\nOr pay on the web: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S4\n\n#Tayari #PayForMe #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S4_Tayari.jpg"
+   ],
+   "alt": "Tayari on WhatsApp. Just type Pay for me.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2026-12-23T16:00:00+00:00",
+   "asset": "S6",
+   "draft": false,
+   "text": "Birthday back home? Send something useful. They choose their own number.\n\nSend a gift: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S6\n\n#Gifts #HomeSorted #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S6_Gift.jpg"
+   ],
+   "alt": "Birthday back home? Send something useful.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2026-12-24T16:00:00+00:00",
+   "asset": "S5",
+   "draft": false,
+   "text": "Hear their voice. Every week. Call home, top up and pay in KMG Connect.\n\nGet KMG Connect: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S5#apps\n\n#KMGConnect #CallHome #Diaspora",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S5_Connect.jpg"
+   ],
+   "alt": "KMG Connect. Hear their voice. Every week.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2026-12-27T18:00:00+00:00",
+   "asset": "S2",
+   "draft": false,
+   "text": "They ask. You pay. It lands. One link from home, and you pay from anywhere. Try Pay for Me in Uza.\n\nTry Pay for Me: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S2\n\n#PayForMe #HomeSorted #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S2_PayForMe.jpg"
+   ],
+   "alt": "They ask. You pay. It lands. Pay for Me in Uza.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2026-12-29T18:00:00+00:00",
+   "asset": "S3",
+   "draft": false,
+   "text": "School fees? Everyone chips in, and everyone sees who paid. Start a Chip In in Uza.\n\nStart a Chip In: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S3\n\n#ChipIn #SchoolFees #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S3_ChipIn.jpg"
+   ],
+   "alt": "School fees? Everyone chips in. Start a Chip In in Uza.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2026-12-31T18:00:00+00:00",
+   "asset": "S5",
+   "draft": false,
+   "text": "Hear their voice. Every week. Call home, top up and pay in KMG Connect.\n\nGet KMG Connect: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S5#apps\n\n#KMGConnect #CallHome #Diaspora",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S5_Connect.jpg"
+   ],
+   "alt": "KMG Connect. Hear their voice. Every week.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-04T18:00:00+00:00",
+   "asset": "CB",
+   "draft": false,
+   "text": "4 ways to look after home from abroad. Share it with the cousin who always pays.\n\nGet Uza: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=CB#apps\n\n#HomeSorted #Diaspora #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/CB2_Airtime.jpg",
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/CB3_Power.jpg",
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/CB4_Fees.jpg",
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/CB5_Gifts.jpg"
+   ],
+   "alt": "4 ways to look after home from abroad: airtime, electricity, chip in for fees, birthday gifts.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-05T11:00:00+00:00",
+   "asset": "D2",
+   "draft": false,
+   "text": "Introducing KMG Builders: a community for developers shipping small, real solutions for the diaspora economy on KMG rails.\nMonthly build nights, a revenue share on what your app earns, and real users from day one.\nWho should we invite?\n\nJoin KMG Builders: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=D2\n\n#KMGBuilders #Fintech #Developers",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/D2_Builders_LinkedIn.jpg"
+   ],
+   "alt": "KMG Builders community banner.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-06T18:00:00+00:00",
+   "asset": "S3",
+   "draft": false,
+   "text": "School fees? Everyone chips in, and everyone sees who paid. Start a Chip In in Uza.\n\nStart a Chip In: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S3\n\n#ChipIn #SchoolFees #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S3_ChipIn.jpg"
+   ],
+   "alt": "School fees? Everyone chips in. Start a Chip In in Uza.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-07T18:00:00+00:00",
+   "asset": "M1",
+   "draft": true,
+   "text": "Sell. Get paid. See it all. 🛒\nUza Business puts your till, payment links and QR codes, and your sales reports in one app.\nWhat does your shop sell most of?\n\nOpen a business account: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=M1#apps\n\n#SmallBusiness #UzaBusiness #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/M1_Merchant.jpg"
+   ],
+   "alt": "Uza Business for merchants.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-08T18:00:00+00:00",
+   "asset": "S4",
+   "draft": false,
+   "text": "No app? Just type \"Pay for me\" to Tayari on WhatsApp: +44 7916 687285.\n\nOr pay on the web: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S4\n\n#Tayari #PayForMe #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S4_Tayari.jpg"
+   ],
+   "alt": "Tayari on WhatsApp. Just type Pay for me.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-12T18:00:00+00:00",
+   "asset": "M2",
+   "draft": false,
+   "text": "Your shop, open on WhatsApp. 📲\nSend a pay link in the chat and your customer gets a receipt automatically.\nWhat do you sell on WhatsApp?\n\nList your shop: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=M2#apps\n\n#SellOnWhatsApp #SmallBusiness #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/M2_SellWhatsApp.jpg"
+   ],
+   "alt": "Sell on WhatsApp with pay links and receipts.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-13T18:00:00+00:00",
+   "asset": "S3",
+   "draft": false,
+   "text": "School fees? Everyone chips in, and everyone sees who paid. Start a Chip In in Uza.\n\nStart a Chip In: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S3\n\n#ChipIn #SchoolFees #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S3_ChipIn.jpg"
+   ],
+   "alt": "School fees? Everyone chips in. Start a Chip In in Uza.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-14T18:00:00+00:00",
+   "asset": "R1",
+   "draft": false,
+   "text": "Sell airtime and bills. Earn on every sale. 💸\nTop up friends and customers from your Uza reseller wallet. Commission terms are in the app.\nWho always asks you for airtime?\n\nBecome a reseller: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=R1#apps\n\n#SideHustle #Airtime #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/R1_Resellers.jpg"
+   ],
+   "alt": "Resellers earn on every sale with Uza.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-19T18:00:00+00:00",
+   "asset": "C1",
+   "draft": false,
+   "text": "Be the one who shows the family. 💜\nJoin Uza Circle: host a demo at church or your group, get rewards for every family you bring, and test new features first. UK, SA and Zimbabwe.\nWhere would you host yours?\n\nJoin the Circle: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=C1#apps\n\n#UzaCircle #Community #Diaspora",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/C1_Circle.jpg"
+   ],
+   "alt": "Uza Circle ambassadors: host, earn, shape.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-20T18:00:00+00:00",
+   "asset": "S6",
+   "draft": false,
+   "text": "Birthday back home? Send something useful. They choose their own number.\n\nSend a gift: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S6\n\n#Gifts #HomeSorted #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S6_Gift.jpg"
+   ],
+   "alt": "Birthday back home? Send something useful.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-22T18:00:00+00:00",
+   "asset": "S4",
+   "draft": false,
+   "text": "No app? Just type \"Pay for me\" to Tayari on WhatsApp: +44 7916 687285.\n\nOr pay on the web: https://kmgvitallinks.co.uk/shop?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=S4\n\n#Tayari #PayForMe #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/S4_Tayari.jpg"
+   ],
+   "alt": "Tayari on WhatsApp. Just type Pay for me.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-26T11:00:00+00:00",
+   "asset": "P1",
+   "draft": true,
+   "text": "Family back home? Pay their bills and answer their asks, from here.\nScan to get Uza, or WhatsApp HOME to +44 7916 687285.\n\nGet Uza: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=P1#apps\n\n#HomeSorted #Community #Diaspora",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/P1_Poster_A4.jpg"
+   ],
+   "alt": "Uza poster: pay their bills, answer their asks.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-27T18:00:00+00:00",
+   "asset": "CB",
+   "draft": false,
+   "text": "4 ways to look after home from abroad. Share it with the cousin who always pays.\n\nGet Uza: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=CB#apps\n\n#HomeSorted #Diaspora #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/CB2_Airtime.jpg",
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/CB3_Power.jpg",
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/CB4_Fees.jpg",
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/CB5_Gifts.jpg"
+   ],
+   "alt": "4 ways to look after home from abroad: airtime, electricity, chip in for fees, birthday gifts.",
+   "scheduled_in_buffer": false
+  },
+  {
+   "dueAt": "2027-01-28T18:00:00+00:00",
+   "asset": "A1",
+   "draft": false,
+   "text": "Your counter is now a Pay for Me point. 🏪\nA customer needs a bill paid? Make a link for them in seconds, and family abroad pay it. Earn on every paid link, terms in the app.\nWould your customers use this?\n\nBecome an agent: https://kmgvitallinks.co.uk/?utm_source=x&utm_medium=organic_social&utm_campaign=home_sorted_2026&utm_content=A1#apps\n\n#Agents #PayForMe #Zimbabwe",
+   "media": [
+    "https://raw.githubusercontent.com/derrickmga/tayari/home-sorted-2026-12/home-sorted-2026-12/jpg/A1_Agents.jpg"
+   ],
+   "alt": "Agents make Pay for Me links at the counter.",
+   "scheduled_in_buffer": false
+  }
+ ]
+}
